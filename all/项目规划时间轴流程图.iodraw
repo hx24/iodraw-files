@@ -94,7 +94,7 @@
         <mxCell id="Wx86NPt9ehYwBZTANyIc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KP1xSRaD15IPT912Mw--64" target="9KP1xSRaD15IPT912Mw--43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9KP1xSRaD15IPT912Mw--64" value="1.解析实现方案&lt;br style=&quot;font-size: 15px;&quot;&gt;2.确定技术实现&lt;br style=&quot;font-size: 15px;&quot;&gt;3.项目基础搭建&lt;br style=&quot;font-size: 15px;&quot;&gt;4.代码逻辑开发" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="9KP1xSRaD15IPT912Mw--64" value="1.diff界面开发&lt;br style=&quot;font-size: 15px;&quot;&gt;2.对接AI Review&lt;br style=&quot;font-size: 15px;&quot;&gt;3.发布v0.3" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="675" y="280" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9KP1xSRaD15IPT912Mw--69" value="2018.xx.xx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" parent="1" vertex="1">
