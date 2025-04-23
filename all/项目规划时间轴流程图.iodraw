@@ -130,12 +130,6 @@
         <mxCell id="Wx86NPt9ehYwBZTANyIc-3" value="AI Review" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="935" y="190" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Wx86NPt9ehYwBZTANyIc-4" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.151;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;fontSize=15;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1064.860465116279" y="214.5" as="sourcePoint" />
-            <mxPoint x="1164.6299999999997" y="214.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Wx86NPt9ehYwBZTANyIc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wx86NPt9ehYwBZTANyIc-6" target="Wx86NPt9ehYwBZTANyIc-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
