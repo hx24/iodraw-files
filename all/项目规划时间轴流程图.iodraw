@@ -82,18 +82,6 @@
             <mxPoint x="880" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9KP1xSRaD15IPT912Mw--57" value="" style="endArrow=classic;startArrow=classic;html=1;fontStyle=1;fontSize=15;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="120" as="sourcePoint" />
-            <mxPoint x="440" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9KP1xSRaD15IPT912Mw--58" value="" style="endArrow=classic;startArrow=classic;html=1;fontStyle=1;fontSize=15;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="120" as="sourcePoint" />
-            <mxPoint x="640" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9KP1xSRaD15IPT912Mw--59" value="" style="endArrow=classic;startArrow=classic;html=1;fontStyle=1;fontSize=15;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="120" as="sourcePoint" />
@@ -116,16 +104,6 @@
         </mxCell>
         <mxCell id="9KP1xSRaD15IPT912Mw--64" value="1.解析实现方案&lt;br style=&quot;font-size: 15px;&quot;&gt;2.确定技术实现&lt;br style=&quot;font-size: 15px;&quot;&gt;3.项目基础搭建&lt;br style=&quot;font-size: 15px;&quot;&gt;4.代码逻辑开发" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="660" y="280" width="200" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="9KP1xSRaD15IPT912Mw--65" value="共x周" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=15;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="510" y="120" as="geometry">
-            <mxPoint x="25" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9KP1xSRaD15IPT912Mw--66" value="共x周" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=15;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="320" y="120" as="geometry">
-            <mxPoint x="25" y="-2" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9KP1xSRaD15IPT912Mw--68" value="2018.01.01开始" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="-30" y="40" width="140" height="40" as="geometry" />
