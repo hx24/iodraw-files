@@ -159,8 +159,8 @@
             <mxPoint x="1116" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owpuhKJA9La8mAbTVS8Q-11" value="反馈优化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="200" width="130" height="50" as="geometry" />
+        <mxCell id="owpuhKJA9La8mAbTVS8Q-11" value="AI Review" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="935" y="190" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
