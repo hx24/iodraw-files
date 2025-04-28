@@ -13,7 +13,7 @@
         <mxCell id="9KP1xSRaD15IPT912Mw--42" value="待审核列表" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="500" y="190" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9KP1xSRaD15IPT912Mw--43" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="9KP1xSRaD15IPT912Mw--43" value="AI Review" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="710" y="190" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9KP1xSRaD15IPT912Mw--44" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.138;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;fontSize=15;" parent="1" source="9KP1xSRaD15IPT912Mw--40" target="9KP1xSRaD15IPT912Mw--41" edge="1">
@@ -127,11 +127,10 @@
             <mxPoint x="560.8475728155336" y="239.85000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wx86NPt9ehYwBZTANyIc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wx86NPt9ehYwBZTANyIc-6" target="Wx86NPt9ehYwBZTANyIc-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Wx86NPt9ehYwBZTANyIc-3" value="反馈优化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="935" y="190" width="130" height="50" as="geometry" />
+        <mxCell id="Wx86NPt9ehYwBZTANyIc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wx86NPt9ehYwBZTANyIc-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Wx86NPt9ehYwBZTANyIc-6" value="1. 收集反馈&lt;br style=&quot;font-size: 15px;&quot;&gt;2. 持续优化" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="900" y="280" width="200" height="120" as="geometry" />
@@ -159,6 +158,9 @@
             <mxPoint x="1116" y="400" as="sourcePoint" />
             <mxPoint x="1116" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="owpuhKJA9La8mAbTVS8Q-11" value="反馈优化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="200" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
