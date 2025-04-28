@@ -127,11 +127,11 @@
             <mxPoint x="560.8475728155336" y="239.85000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wx86NPt9ehYwBZTANyIc-3" value="反馈优化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="935" y="190" width="130" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="Wx86NPt9ehYwBZTANyIc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wx86NPt9ehYwBZTANyIc-6" target="Wx86NPt9ehYwBZTANyIc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx86NPt9ehYwBZTANyIc-3" value="反馈优化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="935" y="180" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Wx86NPt9ehYwBZTANyIc-6" value="1. 收集反馈&lt;br style=&quot;font-size: 15px;&quot;&gt;2. 持续优化" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="900" y="280" width="200" height="120" as="geometry" />
